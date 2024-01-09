@@ -1,0 +1,48 @@
+.projetos span{
+    color: #ffbb33;
+    padding: 0 0.2em;
+    background-color: #222;
+}
+
+.projetos{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+}
+
+.dados{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+}
+
+.btn_concluir{
+    background-color: #28a745;
+    color: aliceblue;
+    border-color: #28a745;
+    padding: 5px;
+}
+
+.btn_apagar{
+
+    background-color:  #dc3545;
+    color: rgb(255, 255, 255);
+    border-color: #dc3545;
+    padding: 5px;   
+}
+
+.estilos_div{
+    margin-left: 20px;
+    background-color: rgb(228, 228, 228);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1pc;
+}
